@@ -1,9 +1,17 @@
 {
   "name": "node-fundamentals-file-upload",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "run:stream": "node src/stream/readable-stream-csv.js "
+  },
   "devDependencies": {
     "prettier": "^3.0.3"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.2"
   }
 }
