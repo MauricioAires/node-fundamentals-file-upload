@@ -6,7 +6,8 @@ Explorando os Fundamentos do Node.js para criar uma API REST completa, sem a nec
 
 ## Tecnologias
 
-- [Serverless](https://www.serverless.com/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [CSV Parse](https://csv.js.org/parse/)
 
 ## Instalação
 
